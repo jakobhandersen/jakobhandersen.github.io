@@ -1,6 +1,15 @@
 ---
-title: "UrinalBand/FountainOrchestra"
-tags: sound-installation audio-design spot-festival urinal pissoir musikhuset aarhus
+layout: post
+title: "UrinalBand / FountainOrchestra"
+date: "2016-05-25 00:01:00"
+tags: 
+  - "audio-design"
+  - "musikhuset"
+  - "pissoir"
+  - "sound-installation"
+  - "spot-festival"
+  - "urinal"
+  - "aarhus"
 ---
 
 > A sound installation for the (hu)man peeing
@@ -13,9 +22,9 @@ With the band as a metaphor, each urinal guest becomes a band member and each ur
 Unfortunately the installation was mainly accessible to the male sex but some women did manage to find their way in to the men's room, thus challenging yet another rule of this public space.
 
 My three accomplices were:
-Esben Andersen
-Mads Stenøj Andresen
-Brian Hauge Hansen
+[Esben Nørskov Andersen](https://www.discogs.com/artist/3554853-Esben-N%C3%B8rskov-Andersen)
+[Mads Stenøj Andresen](https://www.linkedin.com/in/madsstenhoj/)
+[Brian Hauge Hansen](https://www.linkedin.com/in/brianhaugehansen/)
 
 This is a primitive mock-up video we made while developing the concept:
 
