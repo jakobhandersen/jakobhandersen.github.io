@@ -21,9 +21,9 @@ With the band as a metaphor, each urinal guest becomes a band member and each ur
 
 Unfortunately the installation was mainly accessible to the male sex but some women did manage to find their way in to the men's room, thus challenging yet another rule of this public space.
 
-My three accomplices were:
-[Esben Nørskov Andersen](https://www.discogs.com/artist/3554853-Esben-N%C3%B8rskov-Andersen)
-[Mads Stenøj Andresen](https://www.linkedin.com/in/madsstenhoj/)
+My three accomplices were:  
+[Esben Nørskov Andersen](https://www.discogs.com/artist/3554853-Esben-N%C3%B8rskov-Andersen)  
+[Mads Stenøj Andresen](https://www.linkedin.com/in/madsstenhoj/)  
 [Brian Hauge Hansen](https://www.linkedin.com/in/brianhaugehansen/)
 
 This is a primitive mock-up video we made while developing the concept:

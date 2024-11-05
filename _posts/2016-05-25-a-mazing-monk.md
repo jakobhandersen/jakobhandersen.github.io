@@ -19,16 +19,16 @@ It was made to run in a browser using Unity's Web Player Plugin which is not rea
 <br/>
 Below, you will find full list of people working on A Mazing Monk:
 
-Game Director - Paw Charlie Ravn
-Game Designer - Anders Vang Pedersenn
-Project Manager - Morten Eistrøm Andersen
-Lead Game Programmer - Peter Magnus Falk
-Game Programmers - Philip Mygind, Ali Emek, Olga Dmitricenko
-Lead Animator - Andreas Husballe 
-Animator - Jonas Doctor 
-Art director - Simone Cecilie Møller 
-Lead CG Artist - Jonas M. Andreassen
-CG Artist - Mads L. Christensen 
-Visual Artists - Ida Dirksen, Jannik Faarvang Petersen
-Level Designers - Ture Slot Bundgaard, Karol Kvaran 
-Audio Designers and Composers - Jakob Hougaard Andersen, Rune Thuelund
+Game Director - Paw Charlie Ravn  
+Game Designer - Anders Vang Pedersen  
+Project Manager - Morten Eistrøm Andersen  
+Lead Game Programmer - Peter Magnus Falk  
+Game Programmers - Philip Mygind, Ali Emek, Olga Dmitricenko  
+Lead Animator - Andreas Husballe  
+Animator - Jonas Doctor  
+Art director - Simone Cecilie Møller  
+Lead CG Artist - Jonas M. Andreassen  
+CG Artist - Mads L. Christensen  
+Visual Artists - Ida Dirksen, Jannik Faarvang Petersen  
+Level Designers - Ture Slot Bundgaard, Karol Kvaran  
+Audio Designers and Composers - Jakob Hougaard Andersen, Rune Thuelund  

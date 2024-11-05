@@ -10,8 +10,8 @@ tags:
   - "sound-installation"
 ---
 
-In the spring of 2009, I was involved in the development of an audio installation called *Sound People*.
-It was made in collaboration with [Sune Hede](https://www.linkedin.com/in/sune-hede-a0b12611/) and [Helga Rosenfeldt-Olsen](http://helgaro.dk/) as a part of a course at Aarhus University on interactive audio design. 
+In the spring of 2009, I was involved in the development of an audio installation called *Sound People*.  
+It was made in collaboration with [Sune Hede](https://www.linkedin.com/in/sune-hede-a0b12611/) and [Helga Rosenfeldt-Olsen](http://helgaro.dk/) as a part of a course at Aarhus University on interactive audio design.  
 The idea behind the installation is to comment or sonify interpersonal relationships in the public space.<!--more-->
 
 This video is a brief presentation of the installation:

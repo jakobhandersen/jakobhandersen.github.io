@@ -40,10 +40,6 @@ minima:
 show_excerpts: true
 excerpt_separator: <!--more-->
 
-# Kramdown
-kramdown:
-  hard_wrap: true #Will make a line break into a line break (without specifying <br/>)
-
 # Front Matter Defaults (see https://jekyllrb.com/docs/configuration/front-matter-defaults/)
 defaults:
   - scope:
