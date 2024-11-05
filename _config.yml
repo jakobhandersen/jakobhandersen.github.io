@@ -26,6 +26,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jakobhandersen
+timezone: Europe/Helsinki
+
 
 # Build settings
 remote_theme: jekyll/minima
@@ -34,6 +36,21 @@ plugins:
   - jekyll-remote-theme
 minima:
   skin: dark
+  date_format: "%d/%m %Y"
+show_excerpts: true
+excerpt_separator: <!--more-->
+
+# Kramdown
+kramdown:
+  hard_wrap: true #Will make a line break into a line break (without specifying <br/>)
+
+# Front Matter Defaults (see https://jekyllrb.com/docs/configuration/front-matter-defaults/)
+defaults:
+  - scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "post"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
