@@ -21,11 +21,12 @@
 title: Jakob Hougaard Andersen
 email: jakobhandersen@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my website here on GitHub.
-  As you probably notice, the site is currently work in progress - I am intending to move everything from https://jakobhandersen.dk to here...
+  Welcome to my CV website / blog here on GitHub.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jakobhandersen
+timezone: Europe/Helsinki
+
 
 # Build settings
 remote_theme: jekyll/minima
@@ -34,6 +35,17 @@ plugins:
   - jekyll-remote-theme
 minima:
   skin: dark
+  date_format: "%d/%m %Y"
+show_excerpts: true
+excerpt_separator: <!--more-->
+
+# Front Matter Defaults (see https://jekyllrb.com/docs/configuration/front-matter-defaults/)
+defaults:
+  - scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "post"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
