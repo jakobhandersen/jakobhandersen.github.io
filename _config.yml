@@ -21,8 +21,7 @@
 title: Jakob Hougaard Andersen
 email: jakobhandersen@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my website here on GitHub.
-  As you probably notice, the site is currently work in progress - I am intending to move everything from https://jakobhandersen.dk to here...
+  Welcome to my CV website / blog here on GitHub.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jakobhandersen

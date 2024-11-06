@@ -14,11 +14,16 @@ It has been a long journey for the small development team of which I have been a
 
 ![Felix The Reaper](/assets/images/Felix_The_Reaper_01.jpg)
 
-The project started out with an idea of building a game around the Dancing Death. The concept of the Dancing Death can be traced a long way back through history and is reflected in everything from old church paintings to modern popular culture.  
+The project started out with an idea of building a game around the Dancing Death. The concept of the Dancing Death can be traced a long way back through history and is reflected in everything from old church paintings to modern popular culture.
+
 The fact that the concept has a strong historical aspect is probably no accident, since the idea arose among a small group of historians hanging around at an obscure office at Aarhus University. Though I was no historian, I knew one of them and was invited to participate as one of two programmers, though I was not really that either, at least not by education. In fact none of us were really doing what we were educated for.
 
-Though we had a quite elaborate idea about the universe of the game with tons of inspiration from various historical sources, we did not have a fixed idea for the gameplay. So during the first couple of years, we were making prototypes with different kinds of gameplay, ranging from a [Snake](https://en.wikipedia.org/wiki/Snake_\(video_game_genre\)) type of game where you as Death gather a longer and longer tail of lost souls to a more rhythm-based dance game where you have to tap at the right time and place in order to get Death in to the groove. You might say, that we were a bit lost ourselves, gameplay-wise.  
-But eventually, after a lot of experiments, discussions and adjustments, not to mention time, we settled on the grid-based shadow manipulation gameplay that ended up in the final game.
+![Character design of the Felix character](/assets/images/FelixCharacterDesign.png)
+*Some character design of the Felix character, made by the very skillful graphical artist / historian Mikkel Maltesen*
+
+Though we had a quite elaborate idea about the universe of the game with tons of inspiration from various historical sources, we did not have a fixed idea for the gameplay. So during the first couple of years, we were making prototypes with different kinds of gameplay, ranging from a [Snake](https://en.wikipedia.org/wiki/Snake_\(video_game_genre\)) type of game where you as Death gather a longer and longer tail of lost souls to a more rhythm-based dance game where you have to tap at the right time and place in order to get Death in to the groove. 
+
+You might say, that we were a bit lost ourselves, gameplay-wise. But eventually, after a lot of experiments, discussions and adjustments, not to mention time, we settled on the grid-based shadow manipulation gameplay that ended up in the final game.
 
 A lot of things has happened during these years of development which fell in different phases (whenever we had some money to develop). And while it would be too lengthy to go in depth with all of these things, I will just quickly mention some of them.
 
