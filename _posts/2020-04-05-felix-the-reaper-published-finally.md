@@ -22,14 +22,22 @@ But eventually, after a lot of experiments, discussions and adjustments, not to 
 
 A lot of things has happened during these years of development which fell in different phases (whenever we had some money to develop). And while it would be too lengthy to go in depth with all of these things, I will just quickly mention some of them.
 
-We experimented with motion capture techniques using skilled dancers, eventually realizing that for our purpose it was a better approach just to record the dance moves with camera (still with dancers) and then let our animators interpret that.  
-We changed the platform of the game from iPad, which was our initial target, to basically everything _else_ than the iPad. And as I am writing now, the game is being ported to iOS again, somehow completing the circle.  
-We worked with local musicians, inviting them to compose and record their music for an interactive music system, developed to reflect the current state of the game.  
-We struggled with the dancing movement system of Felix, trying to make the animators (and dancers) free to make organic/wild movements while ensuring that we can keep Felix on track in this very grid-based game.  
-We saw people come and go, and even though the team was not very big at any given time, a good amount of people has been involved in the project. This also posed a challenge with regards to passing on the idea and knowledge of the project.  
-We realized that there is quite a long way from having a sort of finished game to having a game that can be published on four different platforms and in 14 different languages.  
+**We experimented with motion capture techniques** using skilled dancers, eventually realizing that for our purpose it was a better approach just to record the dance moves with camera (still with dancers) and then let our animators interpret that.
+
+**We changed the platform of the game** from iPad, which was our initial target, to basically everything _else_ than the iPad. And as I am writing now, the game is being ported to iOS again, somehow completing the circle.
+
+**We worked with local musicians**, inviting them to compose and record their music for an interactive music system, developed to reflect the current state of the game.
+
+**We struggled with the dancing movement system** of Felix, trying to make the animators (and dancers) free to make organic/wild movements while ensuring that we can keep Felix on track in this very grid-based game.
+
+**We saw people come and go**, and even though the team was not very big at any given time, a good amount of people has been involved in the project. This also posed a challenge with regards to passing on the idea and knowledge of the project.
+
+**We realized that there is quite a long way** from having a sort of finished game to having a game that can be published on four different platforms and in 14 different languages.
+
 ...
 
 And while I doubt that in the future, we will look back on Felix The Reaper as a big commercial success, for me it _is_ a success that we finally managed to publish this game after a seemingly endless row of demos and time spent trying to explain to friends and family (and sometimes ourselves) what we were actually doing.  
+
 A big credit to Esben Kjær Ravn, the man behind [Kong Orange](http://www.kongorange.com), for pulling this off, maintaining the direction of the project and convincing sometimes frustrated and doubtful team members (quite often me) that this is doable.  
+
 Thanks also to [Spilordningen](https://www.dfi.dk/branche-og-stoette/stoette/spilordningen) at the [Danish Film Institute](https://www.dfi.dk/en) for supporting the project (more than once), to [CAPNOVA](http://capnova.dk/) for investing in it and to [Daedalic Entertainment](https://www.daedalic.com/) for publishing it.
