@@ -1,6 +1,5 @@
 ---
 title: "Moesgaard Museum"
-date: "2016-07-01 00:02:00"
 tags: 
   - "moesgaard-museum"
 ---

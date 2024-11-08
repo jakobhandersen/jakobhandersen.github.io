@@ -7,3 +7,10 @@
 #
 layout: home
 ---
+
+Welcome to my online portfolio / CV blog thingy.
+
+Here you will find a list of posts describing some of the things I have been / am working with.
+
+Note that the post dates refer to approximate time when the described project took place rather than the time when the post was written.  
+<br/>

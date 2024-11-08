@@ -1,6 +1,5 @@
 ---
 title: "Realistic mediation of virtual sound sources"
-date: "2016-06-16 00:01:00"
 tags: 
   - "3d-sound"
   - "binaural-synthesis"
