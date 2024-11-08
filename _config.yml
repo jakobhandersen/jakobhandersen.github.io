@@ -21,7 +21,7 @@
 title: Jakob Hougaard Andersen
 email: jakobhandersen@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my CV website / blog here on GitHub.
+  Welcome to my online portfolio / CV blog thingy here on GitHub.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jakobhandersen
@@ -35,7 +35,7 @@ plugins:
   - jekyll-remote-theme
 minima:
   skin: dark
-  date_format: "%d/%m %Y"
+  date_format: "%B %Y"
 show_excerpts: true
 excerpt_separator: <!--more-->
 

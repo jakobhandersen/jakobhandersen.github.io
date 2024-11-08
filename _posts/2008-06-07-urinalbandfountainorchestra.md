@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "UrinalBand / FountainOrchestra"
-date: "2016-05-25 00:01:00"
 tags: 
   - "audio-design"
   - "musikhuset"

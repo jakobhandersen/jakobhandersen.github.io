@@ -1,6 +1,5 @@
 ---
 title: "Impossible Junction"
-date: "2016-05-26 00:02:00"
 tags: 
   - "audio-installation"
   - "aarhus-university"

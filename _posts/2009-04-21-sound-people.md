@@ -1,6 +1,5 @@
 ---
 title: "Sound People"
-date: "2016-05-25 00:02:00"
 tags: 
   - "aarhus"
   - "audio-design"

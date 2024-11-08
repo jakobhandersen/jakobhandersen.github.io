@@ -1,6 +1,5 @@
 ---
 title: "Two small games for Øhavsmuseet"
-date: "2016-06-16 00:02:00"
 tags: 
   - "arresten"
   - "øhavsmuseet"

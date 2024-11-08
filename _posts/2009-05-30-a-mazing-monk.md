@@ -1,6 +1,5 @@
 ---
 title: "A Mazing Monk"
-date: "2016-05-25 00:03:00"
 tags: 
   - "a-mazing-monk"
   - "audio-design"

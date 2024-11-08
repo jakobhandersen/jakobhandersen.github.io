@@ -1,6 +1,5 @@
 ---
 title: "Aarhus Rocks!"
-date: "2016-07-01 00:01:00"
 tags: 
   - "aarhus-rocks"
   - "den-gamle-by"

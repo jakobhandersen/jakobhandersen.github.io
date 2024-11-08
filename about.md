@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Welcome to my website
-It is a site that basically is a kind of web CV / blog.
+Welcome to my website which is basically a kind of online portfolio or a CV blog.
 
 A little bit about me:  
 I am born in 1982 in Aarhus, Denmark and I currently live in Helsinki, Finland.  
@@ -18,6 +17,7 @@ You can, for example, find me here:
 - Freesound profile:[https://freesound.org/people/jakobhandersen](https://freesound.org/people/jakobhandersen)
 
 ![Jakob Hougaard Andersen, August 2018](/assets/images/ProfilePictureAugust2018.jpg)  
-*Profile picture - from 2018, TODO: replace with newer one ;-)*
+*Profile picture - from 2018  
+TODO: replace with newer one ;-)*
 
 \- Jakob
