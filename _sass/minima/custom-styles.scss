@@ -1,3 +1,10 @@
+//We have put in a header image, so we move the mobile navigation menu to the bottom of the header instead of the top
+//(note that the .site-nav is only absolutely positioned when showing the mobile navigation menu)
+.site-nav
+{
+    top: auto;
+    bottom: 9px;
+}
 
 //YouTube embedding styling for this method: https://www.chunkhang.com/blog/responsive-youtube-video-with-jekyll
 .youtube-wrapper
