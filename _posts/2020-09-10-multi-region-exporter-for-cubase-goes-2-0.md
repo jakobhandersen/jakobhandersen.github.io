@@ -5,7 +5,7 @@ tags:
   - "cubase"
 ---
 
-I recently found out that the [Multi-region Exporter - for Cubase](https://github.com/jakobhandersen/multi-region_exporter_for_cubase) has had a serious bug from the beginning: it could not handle tempos other than the default 120 bpm unless the track was set to 'linear mode' (as opposed to the default 'musical mode').<!--more--> I don't know why I hadn't considered testing with different tempos back in the day, but luckily user Anthony Paiano contacted me about some strange behaviour of the program.
+I recently found out that the [Multi-region Exporter - for Cubase](https://github.com/jakobhandersen/multi-region_exporter_for_cubase) has had a serious bug from the beginning: it could not handle tempos (tempi?) other than the default 120 bpm unless the track was set to 'linear mode' (as opposed to the default 'musical mode').<!--more--> I don't know why I hadn't considered testing with different tempos back in the day, but luckily user Anthony Paiano contacted me about some strange behaviour of the program.
 
 Fixing the bug involved brushing up my high school calculus and a good bit of research before finally, and partly by accident/luck, arriving at the formulas below surrounded by double boxes:
 
