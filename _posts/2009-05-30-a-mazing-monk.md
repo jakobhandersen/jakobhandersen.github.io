@@ -8,9 +8,11 @@ tags:
   - "unity"
 ---
 
-In May 2009 , I took part in a one-month [DADIU](http://www.dadiu.dk) production. Along with Rune Thuelund I was an audio designer on the computer game *A Mazing Monk*. My role was primarily to compose music and to implement sound via Unity's GUI and scripts.<!--more-->
+In May 2009 , I took part in a one-month [DADIU](http://www.dadiu.dk) production. Along with [Rune Thuelund](https://www.linkedin.com/in/rune-thuelund-749a9828) I was composer and audio designer on the computer game *A Mazing Monk*.  
+My role was primarily to compose music and to implement sound via Unity's GUI and scripts.<!--more-->
 
-![A Mazing Monk](/assets/images/A-Mazing-Monk.png)
+![A Mazing Monk screenshot](/assets/images/A-Mazing-Monk.png)  
+*A screenshot from A Mazing Monk.*
 
 It was made to run in a browser using Unity's Web Player Plugin which is not really supported anymore so, unfortunately, I can't share a link for you to try it out. However, here is a short video showing the gameplay:
 
