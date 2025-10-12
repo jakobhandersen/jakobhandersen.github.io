@@ -29,13 +29,16 @@ timezone: Europe/Helsinki
 
 
 # Build settings
-remote_theme: jekyll/minima
+remote_theme: jekyll/minima@b3385fe
+ 
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
 minima:
   skin: dark
+  show_excerpts: true
   date_format: "%B %Y"
+  hide_site_feed_link: true 
 show_excerpts: true
 excerpt_separator: <!--more-->
 
