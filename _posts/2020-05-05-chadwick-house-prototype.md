@@ -24,6 +24,11 @@ For this prototype of Chadwick house, I was invited to join the team as programm
 > 
 > *Text from [Kong Orange's website](http://www.kongorange.com/chadwick-house), where you can read more about Chadwick House.*
 
+Below is a playthrough video of the prototype. The playthough capture was made on a mac, though the game was made for mobile devices.
+
+{% include youtube.html id='iMV5_0byhKI' %}
+<br/>
+
 The project was made using [Unity](https://unity.com/) as game engine and [Wwise](https://www.audiokinetic.com/en/wwise/overview/) as audio platform.
 
 Unfortunately I can not share a link to the prototype here publicly. But you can contact me or Kong Orange, if you are interested in trying it out or knowing more.
